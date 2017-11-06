@@ -1,2 +1,2 @@
-# Linear_Regression_Springboard
+# Linear Regression
 Linear regression assignment
